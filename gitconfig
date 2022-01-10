@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nminvielle7@hotmail.com
+	name = Nicolas Minvielle
